@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uploads Page</title>
+</head>
+<body>
+    <h1>Welcome to the Uploads Page</h1>
+    <p>Here are the uploaded files:</p>
+    <ul>
+        <?php
+        $dir = "uploads/";
+        if (is_dir($dir)) {
+            if ($dh = opendir($dir)) {
+                while (($file = readdir($dh)) !== false) {
+                    if ($file != "." && $file != "..") {
+                        echo "<li><a href='uploads/$file'>$file</a></li>";
+                    }
+                }
+                closedir($dh);
+            }
+        }
+        ?>
+    </ul>
+</body>
+</html>
