@@ -1,0 +1,5 @@
+com.task.myapplication.test.app-core-1.6.1-0 C:\Users\LENOVO\.gradle\caches\transforms-4\e55ed4e6aa3373ab84b8d900a408c554\transformed\core-1.6.1\res
+com.task.myapplication.test.app-androidTest-1 C:\Users\LENOVO\AndroidStudioProjects\MyApplication\app\build\generated\res\resValues\androidTest\debug
+com.task.myapplication.test.app-mergeDebugAndroidTestResources-2 C:\Users\LENOVO\AndroidStudioProjects\MyApplication\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.task.myapplication.test.app-mergeDebugAndroidTestResources-3 C:\Users\LENOVO\AndroidStudioProjects\MyApplication\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.task.myapplication.test.app-debugAndroidTest-4 C:\Users\LENOVO\AndroidStudioProjects\MyApplication\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

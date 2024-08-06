@@ -1,0 +1,3 @@
+com.task.myapplication.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
