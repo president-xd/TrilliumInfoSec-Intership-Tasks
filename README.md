@@ -1,2 +1,2 @@
-# Red Teaming Intern at Trillium Information Security Systems
+# Application Security Intern at Trillium Information Security Systems
 Tasks during my internship.
